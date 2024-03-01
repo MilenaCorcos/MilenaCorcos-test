@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description ""
 url                      : "https://milenacorcos.github.io/MilenaCorcos-test/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "https://milenacorcos.github.io/MilenaCorcos-test/" # the subpath of your site, e.g. "/blog"
+repository               : "MilenaCorcos/MilenaCorcos-test" #"academicpages/academicpages.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Milena"
   pronouns         : "she/her"  
   bio              : "I started a postdoc at NorthWest Research Associates in Boulder, Colorado after graduating in France in 2023. I am interested in 
                           atmospheric physics, and particularly interactions between dynamics and microphysics in cirrus clouds. 
