@@ -1,11 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Observation of Gravity Waves at the Tropical Tropopause Using Superpressure Balloons"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: '
+
+    Tropical gravity wave activity is characterized from long-duration superpressure balloon flights
+
+    Gravity-wave momentum fluxes exhibit a clear dependence to the distance to the nearest convective system
+
+    Observed wave intermittency results from the time- and spatially-varying distribution of the source
+'
+date: 2021-07-14
+venue: 'Journal of Geophysical Research: Atmospheres'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD035165'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
