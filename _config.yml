@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Milena Corcos, Dr."
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,20 +23,21 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "I started a postdoc at NorthWest Research Associates in Boulder, Colorado after graduating in France in 2023. I am interested in 
+                          atmospheric physics, and particularly interactions between dynamics and microphysics in cirrus clouds. 
+                          I use notably balloonborn observations, and I am a field-campaign enthusiast!"
+  location         : "Boulder, Colorado"
+  employer         : "NorthWest Research Associates"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "milena@nwra.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=y_NqdKoAAAAJ&hl=fr"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0000-0002-4982-2748"
+  researchgate     : "https://www.researchgate.net/profile/Milena-Corcos"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
